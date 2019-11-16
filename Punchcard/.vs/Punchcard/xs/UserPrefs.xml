@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7D332FB1-D94C-4DFB-AF3D-7DA2355B6224}|Default">
+  <MonoDevelop.Ide.ItemProperties.Punchcard.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_3_marshmallow_6_0_api_23" />
+  <MonoDevelop.Ide.ItemProperties.Punchcard.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1421A9AA-C89E-41D1-8958-4E3062B0A456" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Punchcard/Pages/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="Punchcard/Pages/LoginPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Punchcard" expanded="True">
+            <Node name="Punchcard" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="ActiveChatsPage.xaml" expanded="True" />
+                <Node name="chat.xaml" expanded="True" />
+                <Node name="LoginPage.xaml" expanded="True">
+                  <Node name="LoginPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="RegisterPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Punchcard/Pages/ActiveChatsPage.xaml.cs" line="23" offsetX="692" offsetY="330" expression="System.Threading.Timer" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

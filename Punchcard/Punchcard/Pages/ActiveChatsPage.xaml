@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Punchcard.Pages.ActiveChatsPage" Icon="chats.png">
+    <StackLayout>
+        <ScrollView>
+            <StackLayout x:Name="messagesStack" Margin="15,15,15,15">
+                <Label x:Name="chatz" Text="hello" />    
+            </StackLayout>
+        </ScrollView>
+        <StackLayout VerticalOptions="EndAndExpand">
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="message" HorizontalOptions="FillAndExpand"/>
+                <Button Text="Send" HorizontalOptions="End" Clicked="Handle_Clicked"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
+
